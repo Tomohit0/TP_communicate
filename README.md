@@ -1,24 +1,21 @@
-# README
+# Teacher & Parents Communicate (TP_communicate)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ：塾で使う、講師と保護者のコミュニケーションサイト。塾での子供の様子、また保護者から講師へ要望を通しコミュニケーションを図るサイトです。
 
-Things you may want to cover:
+### テーマを選んだ理由：以前勤めていた塾では保護者とのコミュニケーション方法が「電話」、「面談」しかなく、もっと気軽にコミュニケーションを取れる方法を考えていたためです。
 
-* Ruby version
+### ターゲットユーザ：塾に通っている子供の保護者。
 
-* System dependencies
+### 主な利用シーン：小学校で使っていた「連絡帳」のようなものです。今日の塾での子供の様子を講師が投稿し、その保護者が投稿に対してコメントすることができます。また逆に保護者が講師への要望を投稿し、その投稿に講師がコメントをすることが可能です。
 
-* Configuration
+## 設計書
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
